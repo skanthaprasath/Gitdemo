@@ -36,6 +36,10 @@ public class seleclass {
 		
 		//driver.findElement(By.name("radioButton")).click();
 		automate.radiobutton(driver).click();
+		automate.radiobutton(driver).click();
+		automate.radiobutton(driver).click();
+		automate.radiobutton(driver).click();
+		automate.radiobutton(driver).click();
 	}
 		
 		
