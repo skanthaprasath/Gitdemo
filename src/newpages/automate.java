@@ -17,6 +17,21 @@ public class automate {
 		element = driver.findElement(By.name("radioButton"));
 		return element;
 	}
+	public static WebElement radiobutton(WebDriver driver)
+	{
+		element = driver.findElement(By.name("radioButton"));
+		return element;
+	}
+	public static WebElement radiobutton(WebDriver driver)
+	{
+		element = driver.findElement(By.name("radioButton"));
+		return element;
+	}
+	public static WebElement radiobutton(WebDriver driver)
+	{
+		element = driver.findElement(By.name("radioButton"));
+		return element;
+	}
 	
 
 }
