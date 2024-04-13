@@ -25,6 +25,10 @@ public class seleclass {
 		driver.get("https://rahulshettyacademy.com/AutomationPractice/");
 		//driver.findElement(By.name("checkBoxOption1")).click();
 		automate.checkbox(driver).click();
+		automate.checkbox(driver).click();
+		
+		automate.checkbox(driver).click();
+		
 		
 		//System.out.println(driver.findElements(By.cssSelector("input[type='checkbox']")).size());
 		//System.out.println(driver.findElement(By.name("checkBoxOption1")).isSelected());
